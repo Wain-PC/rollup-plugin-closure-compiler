@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/rikuayanokozy/rollup-plugin-closure-compiler#readme",
   "dependencies": {
-    "google-closure-compiler": ">20170000",
+    "google-closure-compiler": "=20170806",
     "tempfile": "^2.0.0"
   },
   "devDependencies": {
